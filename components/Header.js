@@ -79,7 +79,7 @@ const HeaderHome = (props) => {
               <div className="col-lg-3 col-md-4 col-sm-5 d-md-block d-none">
                 <div className="urgent-call text-right">
                   <a href="#" className="btn">
-                    Get Jironis
+                   Free Trial
                   </a>
                 </div>
               </div>
