@@ -18,7 +18,7 @@ import Footer from "../components/Footer";
 
 const HomePage = () => {
   return (
-    <Layout pageTitle="Jironis">
+    <Layout pageTitle="Neobin">
       <Header />
       <MobileMenu />
       <Banner />
