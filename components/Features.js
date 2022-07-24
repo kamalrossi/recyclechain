@@ -17,50 +17,19 @@ const FEATURES_DATA = [
   {
     title: "Smart City Analytics",
     text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+      "  CCCCCCCCCCCCCCCC",
     image: img1
   },
   {
     title: "Data Science for Social Good",
-    text:
+    text:ttttttttttt
       "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img2
   },
   {
     title: "CryptoCurrency in Value Chain",
     text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img4
-  },
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img3
-  },
-  {
-    title: "New Artwork \n Unveiled",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img1
-  },
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img2
-  },
-  ,
-  {
-    title: "Company Growth \n Strategy",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
-    image: img3
-  },
-  {
-    title: "Creative App \n Display",
-    text:
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+      " Ethereumm",
     image: img4
   }
 ];
