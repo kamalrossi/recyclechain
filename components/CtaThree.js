@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import img1 from "../assets/img/banner/solution1.svg";
-import img2 from "../assets/img/feature/user-interact2.png";
+import img1 from "../assets/img/banner/smarticity.svg";
+import img2 from "../assets/img/banner/smarticity2.png";
 
 const CtaThree = () => {
   return (
@@ -16,8 +16,8 @@ const CtaThree = () => {
               </div>
               <h2> Visual  Data Analytics</h2>
               <p>
-   We provide Admin Dashboard with latest visualization technology for
-     admin convenience
+   We provide Admin Dashboard with visualization technology for
+     City governance 
               </p>
               <a href="#" className="btn">
                 Free Trial
