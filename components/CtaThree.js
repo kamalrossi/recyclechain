@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import img1 from "../assets/img/banner/smarticity.svg";
+import img1 from "../assets/img/banner/smarticity.png";
 import img2 from "../assets/img/banner/smarticity2.png";
 
 const CtaThree = () => {
