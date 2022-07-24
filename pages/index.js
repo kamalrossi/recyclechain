@@ -26,12 +26,9 @@ const HomePage = () => {
       <FunFacts />
       <CtaTwo />
       <CtaThree />
-      <Video />
-      <AppShots />
-      <Pricing />
-      <Testimonials />
-      <Clients />
-      <BlogHome />
+         <Pricing />
+
+ 
       <CtaOne />
       <Footer />
     </Layout>
