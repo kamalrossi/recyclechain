@@ -1,4 +1,4 @@
-import React from "react";
+  import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import SwiperCore, { Pagination, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -15,19 +15,19 @@ import img4 from "../assets/img/icons/goal.svg";
 
 const FEATURES_DATA = [
   {
-    title: "New Artwork \n Unveiled",
+    title: "Smart City Analytics",
     text:
       "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img1
   },
   {
-    title: "Company Growth \n Strategy",
+    title: "Data Science for Social Good",
     text:
       "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img2
   },
   {
-    title: "Creative App \n Display",
+    title: "CryptoCurrency in Value Chain",
     text:
       "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img4
@@ -111,8 +111,8 @@ const Features = () => {
         <Row className="justify-content-center">
           <Col md={12} lg={8}>
             <SectionTitle
-              title="App Advance Features"
-              text="Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt    mollit lorem ipsum anim id est laborum perspiciatis unde."
+              title="Our Core Features"
+              text="We bring latest smart city technology for citizen services."
             />
           </Col>
         </Row>
