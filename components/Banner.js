@@ -9,7 +9,7 @@ import shape5 from "../assets/img/banner/shaps5.png";
 import shape6 from "../assets/img/banner/shaps6.png";
 import shape7 from "../assets/img/banner/shaps7.png";
 
-import bannerMoc from "../assets/img/banner/mockup.png";
+import bannerMoc from "../assets/img/banner/smartcity3.png";
 
 const Banner = () => {
   return (
