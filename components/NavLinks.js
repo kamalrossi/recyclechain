@@ -14,7 +14,7 @@ const NavLinks = () => {
       <li className="dropdown">
         <Link href="/">
           <>
-            <a>Home</a>
+            <a>About</a>
             <i className="fa fa-angle-down" onClick={handleDropdownStatus}></i>
           </>
         </Link>
@@ -40,7 +40,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Features
+        Product
         </ScrollLink>
       </li>
 
@@ -53,7 +53,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          App Screens
+          Pricing
         </ScrollLink>
       </li>
       <li>
@@ -65,13 +65,13 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Pricing
+          Features
         </ScrollLink>
       </li>
       <li className="dropdown">
         <Link href="/news">
           <>
-            <a>News</a>
+            <a>Contact</a>
             <i className="fa fa-angle-down" onClick={handleDropdownStatus}></i>
           </>
         </Link>
