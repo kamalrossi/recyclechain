@@ -1,4 +1,4 @@
-  import React from "react";
+import React from "react";
 import footerBg from "../assets/img/footer-bg.png";
 import footerLogo from "../assets/img/logo.png";
 
@@ -19,8 +19,7 @@ const Footer = () => {
                   </a>
                 </div>
                 <p>
-                  NeoBin is an initiative to apply latest cryptocurrency and blockchain technology
-                  in a smart city waste management
+                  Neobin is a climate tech startup bringing blockchain technology for waste management in smart city.
                 </p>
 
                 <div className="footer-social-area">
@@ -53,7 +52,7 @@ const Footer = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="footer-widget">
                 <div className="widget-header">
-                  <h5>Our Address</h5>
+                  <h5>Headquarter</h5>
                 </div>
 
                 <div className="widget-body">
@@ -62,13 +61,13 @@ const Footer = () => {
                       <span>
                         <i className="fa  fa-phone-square"></i>
                       </span>
-                      888 999 0000
+                      Neobin
                     </li>
                     <li>
                       <span>
                         <i className="fa  fa-envelope"></i>
                       </span>
-                      needhelp@jironis.com
+                     neobin@gmail.com
                     </li>
                     <li>
                       <span>
@@ -83,7 +82,7 @@ const Footer = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="footer-widget">
                 <div className="widget-header">
-                  <h5>Extra Links</h5>
+                  <h5> Links</h5>
                 </div>
               </div>
 
@@ -92,41 +91,21 @@ const Footer = () => {
                   <div className="link-left">
                     <ul>
                       <li>
-                        <a href="#">About</a>
+                        <a href="#">Company</a>
                       </li>
                       <li>
-                        <a href="#">Our Team</a>
+                        <a href="#">Service</a>
                       </li>
                       <li>
-                        <a href="#">Features</a>
-                      </li>
-                      <li>
-                        <a href="#">Blog</a>
-                      </li>
-                      <li>
-                        <a href="#">How It Works</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="link-right">
-                    <ul>
-                      <li>
-                        <a href="#">Help</a>
-                      </li>
-                      <li>
-                        <a href="#">Support</a>
-                      </li>
-                      <li>
-                        <a href="#">Clients</a>
-                      </li>
-                      <li>
-                        <a href="#">Blog</a>
+                        <a href="#">Testimonial</a>
                       </li>
                       <li>
                         <a href="#">Contact</a>
                       </li>
+                      
                     </ul>
                   </div>
+                  
                 </div>
               </div>
             </div>
@@ -136,15 +115,14 @@ const Footer = () => {
                 <div className="widget-body">
                   <div className="twetter-post-inner">
                     <div className="footer-post-details">
-                      @Layerdrops Take your web design to new heights with
-                      jironix. <br />
-                      <a href="http://yhdj58.tp8/JK">http://yhdj58.tp8/JK</a>
+                      Rethink your smartcity management from a approach. <br />
+                      <a href="">Neobin </a>
                     </div>
                     <div className="twetter-post">
                       <span>
                         <i className="fa fa-twitter"></i>
                       </span>
-                      Jironis - Nov 23, 2018
+                     Neobin update July 24, 2022
                     </div>
                   </div>
                 </div>
@@ -155,7 +133,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <div className="footer-text text-center">
-          <p>All Rights Reserved- NeoBin</p>
+          <p>  Neobin 2022-all rights reserved</p>
         </div>
       </div>
     </footer>
