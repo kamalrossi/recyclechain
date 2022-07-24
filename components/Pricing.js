@@ -12,11 +12,9 @@ const Pricing = () => {
         <div className="row justify-content-center">
           <div className="col-md-12 col-lg-8">
             <div className="section-title text-center">
-              <h2>Choose Plans & Pricing</h2>
+              <h2>Customized Pricing</h2>
               <p>
-                Excepteur sint occaecat cupidatat non proident sunt in culpa qui
-                officia deserunt mollit lorem ipsum anim id est laborum
-                perspiciatis unde.
+              No matter you have small, medium or large scale, we have something for you.
               </p>
             </div>
           </div>
@@ -60,7 +58,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan text-center">
                         <div className="single-price-top">
-                          <h4>Standard</h4>
+                          <h4>Ultra</h4>
                           <span>$20</span>
                         </div>
                         <div className="single-price-body">
@@ -122,7 +120,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan active text-center">
                         <div className="single-price-top">
-                          <h4>Business</h4>
+                          <h4>Pro</h4>
                           <span>$30</span>
                         </div>
                         <div className="single-price-body">
@@ -184,7 +182,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan text-center">
                         <div className="single-price-top">
-                          <h4>Professional</h4>
+                          <h4>Premium</h4>
                           <span>$40</span>
                         </div>
                         <div className="single-price-body">
@@ -252,7 +250,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan text-center">
                         <div className="single-price-top">
-                          <h4>Standard</h4>
+                          <h4>Ultra</h4>
                           <span>$200</span>
                         </div>
                         <div className="single-price-body">
@@ -314,7 +312,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan active text-center">
                         <div className="single-price-top">
-                          <h4>Business</h4>
+                          <h4> Pro</h4>
                           <span>$300</span>
                         </div>
                         <div className="single-price-body">
@@ -376,7 +374,7 @@ const Pricing = () => {
                     <div className="col-md-6 col-lg-4">
                       <div className="single-price-plan text-center">
                         <div className="single-price-top">
-                          <h4>Professional</h4>
+                          <h4>Premium</h4>
                           <span>$400</span>
                         </div>
                         <div className="single-price-body">
