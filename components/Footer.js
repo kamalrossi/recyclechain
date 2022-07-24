@@ -1,4 +1,4 @@
-import React from "react";
+  import React from "react";
 import footerBg from "../assets/img/footer-bg.png";
 import footerLogo from "../assets/img/logo.png";
 
@@ -19,8 +19,8 @@ const Footer = () => {
                   </a>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit ame consy ect etur adipisc de elit.
-                  Quisque act raqum nunc no dolor sit de amet.
+                  NeoBin is an initiative to apply latest cryptocurrency and blockchain technology
+                  in a smart city waste management
                 </p>
 
                 <div className="footer-social-area">
@@ -155,7 +155,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <div className="footer-text text-center">
-          <p>© copyright 2019 by Layerdrops.com</p>
+          <p>All Rights Reserved- NeoBin</p>
         </div>
       </div>
     </footer>
