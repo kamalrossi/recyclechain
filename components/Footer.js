@@ -73,7 +73,7 @@ const Footer = () => {
                       <span>
                         <i className="fa  fa-map"></i>
                       </span>
-                      855 road, broklyn street, new york 600
+                      949 01 Nitra, Slovakia
                     </li>
                   </ul>
                 </div>
