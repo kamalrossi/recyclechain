@@ -59,17 +59,15 @@ const Banner = () => {
                   </div>
                 </div>
 
-                <h1>Jironis is for your internet app business</h1>
+                <h1>Neobin makes waste management smarter</h1>
                 <p>
-                  Excepteur sint occaecat cupidatat non proident sunt in culpa
-                  qui officia deserunt mollit lorem ipsum anim id est laborum
-                  perspiciatis unde.
+                 We bring Blockchain and Ethereum Technology for your Smart City Management
                 </p>
                 <a href="#" className="btn">
-                  Download App
+                  Free Trial
                 </a>
                 <a href="#" className="btn">
-                  Discover More
+                  Buy Package
                 </a>
               </div>
             </Col>
