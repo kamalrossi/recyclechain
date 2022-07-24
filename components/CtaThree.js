@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import img1 from "../assets/img/icons/solution1.svg";
+import img1 from "../assets/img/banner/solution1.svg";
 import img2 from "../assets/img/feature/user-interact2.png";
 
 const CtaThree = () => {
@@ -14,14 +14,13 @@ const CtaThree = () => {
               <div className="interact-icon">
                 <img src={img1} className="svg" alt="" />
               </div>
-              <h2>Interact With Your Users On Every Single Platform</h2>
+              <h2> Visual  Data Analytics</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour.
+   We provide Admin Dashboard with latest visualization technology for
+     admin convenience
               </p>
               <a href="#" className="btn">
-                Get Started
+                Free Trial
               </a>
             </div>
           </Col>
