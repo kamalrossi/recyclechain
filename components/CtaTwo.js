@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import img1 from "../assets/img/feature/user-interact.png";
-import img2 from "../assets/img/icons/teamwork.svg";
+import img1 from "../assets/img/banner/smartcity4.png";
+import img2 from "../assets/img/banner/smartcity3.png";
 
 const CtaTwo = () => {
   return (
@@ -19,11 +19,9 @@ const CtaTwo = () => {
               <div className="interact-icon">
                 <img src={img2} className="svg" alt="" />
               </div>
-              <h2>Interact With Your Users On Every Single Platform</h2>
+              <h2>One App- All Service</h2>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour.
+                Urban planner, citizen all use same app for different purpose                   
               </p>
               <a href="#" className="btn">
                 Get Started
