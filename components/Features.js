@@ -1,4 +1,4 @@
-  import React from "react";
+import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import SwiperCore, { Pagination, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -15,23 +15,23 @@ import img4 from "../assets/img/icons/goal.svg";
 
 const FEATURES_DATA = [
   {
-    title: "Smart City Analytics",
+    title: "SmartCity Analytics",
     text:
-      "  CCCCCCCCCCCCCCCC",
+      "Admin dashboard with daa visualization for analytics purposes",
     image: img1
   },
   {
-    title: "Data Science for Social Good",
-    text:ttttttttttt
-      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    title: "Deccentralized Waste Management",
+    text:
+      "Ethereum Blockchain based Decentralized Waste Management is effective",
     image: img2
   },
   {
-    title: "CryptoCurrency in Value Chain",
+    title: "Transparency in Value Chain,
     text:
-      " Ethereumm",
+      "City planner has full access to every endpoint, user terminal and actors of value chain",
     image: img4
-  }
+  },
 ];
 
 const Features = () => {
@@ -80,8 +80,8 @@ const Features = () => {
         <Row className="justify-content-center">
           <Col md={12} lg={8}>
             <SectionTitle
-              title="Our Core Features"
-              text="We bring latest smart city technology for citizen services."
+              title="App Advance Features"
+              text="Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt    mollit lorem ipsum anim id est laborum perspiciatis unde."
             />
           </Col>
         </Row>
