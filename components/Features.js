@@ -15,23 +15,54 @@ import img4 from "../assets/img/icons/goal.svg";
 
 const FEATURES_DATA = [
   {
-    title: "SmartCity Analytics",
+    title: "New Artwork \n Unveiled",
     text:
-      "Admin dashboard with daa visualization for analytics purposes",
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img1
   },
   {
-    title: "Deccentralized Waste Management",
+    title: "Company Growth \n Strategy",
     text:
-      "Ethereum Blockchain based Decentralized Waste Management is effective",
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img2
   },
   {
-    title: "Transparency in Value Chain,
+    title: "Creative App \n Display",
     text:
-      "City planner has full access to every endpoint, user terminal and actors of value chain",
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
     image: img4
   },
+  {
+    title: "Company Growth \n Strategy",
+    text:
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    image: img3
+  },
+  {
+    title: "New Artwork \n Unveiled",
+    text:
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    image: img1
+  },
+  {
+    title: "Company Growth \n Strategy",
+    text:
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    image: img2
+  },
+  ,
+  {
+    title: "Company Growth \n Strategy",
+    text:
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    image: img3
+  },
+  {
+    title: "Creative App \n Display",
+    text:
+      "There are many variations of passages of lorem Ipsum but majority have suffered.",
+    image: img4
+  }
 ];
 
 const Features = () => {
